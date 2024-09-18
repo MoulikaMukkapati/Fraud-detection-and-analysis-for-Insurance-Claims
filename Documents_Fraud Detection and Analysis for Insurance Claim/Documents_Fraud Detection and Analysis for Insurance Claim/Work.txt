@@ -1,0 +1,52 @@
+Service Provider
+
+Login,
+Train and Test Data Sets, 
+View Train and Test Results, 
+View Trained and Tested Results By Bar Chart, 
+View All Insurance Claim Prediction Type, 
+Find Insurance Claim Ratio Type, 
+View Insurance Claim Ratio Results, 
+Download Trained Data Sets, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT INSURANCE CLAIM TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Account_Code,
+DATE_OF_INTIMATION,
+DATE_OF_ACCIDENT,
+CLAIM_Real,
+AGE,
+TYPE,
+DRIVING_LICENSE_ISSUE,
+BODY_TYPE,
+MAKE,
+MODEL,
+YEAR,
+CHASIS_Real,
+REG,
+SUM_INSURED,
+POLICY_NO,
+POLICY_START,
+POLICY_END,
+INTIMATED_AMOUNT,
+INTIMATED_SF,
+EXECUTIVE,
+PRODUCT,
+POLICYTYPE,
+NATIONALITY,
+PREDICTION.
+
+
+
+
+
